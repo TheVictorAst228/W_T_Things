@@ -1,0 +1,22 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "minecraft:saplings"
+    }
+  ],
+  "result": {
+    "item": "test:mayonnaise",
+    "count": 1
+  }
+}

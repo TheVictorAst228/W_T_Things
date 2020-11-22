@@ -1,0 +1,42 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_beef"
+    },
+    "1": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "2": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "3": {
+      "item": "test:mayonnaise"
+    },
+    "4": {
+      "item": "minecraft:bread"
+    },
+    "5": {
+      "item": "test:mayonnaise"
+    },
+    "6": {
+      "item": "minecraft:potato"
+    },
+    "7": {
+      "item": "minecraft:carrot"
+    },
+    "8": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "result": {
+    "item": "test:shawarma",
+    "count": 1
+  }
+}
